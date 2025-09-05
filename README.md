@@ -54,10 +54,10 @@ This project analyzes Airbnb listing data to uncover insights into pricing, avai
 ## 📊 Sample Visualizations  
 
 ### 🔹 Price Distribution  
-![Price Histogram](images/price_distribution.png)  
+![Price Histogram](https://github.com/AnuragChavan123/Data-Analysis-using-Python/blob/main/Price%20Distribution.png)  
 
 ### 🔹 Correlation Heatmap  
-![Heatmap](images/correlation_heatmap.png)  
+![Heatmap](https://github.com/AnuragChavan123/Data-Analysis-using-Python/blob/main/Heatmap.png)  
 
 ---
 
